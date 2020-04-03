@@ -78,6 +78,7 @@ const plugins = [
 
   new HtmlWebpackPlugin({
     title: 'Coronavirus (COVID-19) Testing Resource Center',
+    title: 'مركز اختبار فيروس كورونا 19 المستجد',
     template: 'index.html',
     favicon: 'images/favicon.svg',
   }),
